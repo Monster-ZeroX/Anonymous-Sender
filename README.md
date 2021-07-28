@@ -10,7 +10,7 @@
 <HR><BR>
 
 # DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/Anonymous-Sender)
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monster-ZeroX/Anonymous-Sender)
 
 
 # Vars Needed
