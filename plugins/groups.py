@@ -5,7 +5,7 @@ from pyrogram import (
 
 MESSAGE = """
 Hey, You want to use me In Group ?\nTell this thing
-in @UvinduBr !!\nCurrently Leaving 👋
+to @Monster_ZeroX !!\nCurrently Leaving 👋
 """
 
 
