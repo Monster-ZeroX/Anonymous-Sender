@@ -12,7 +12,14 @@ from vars import var
 START_MSG = """
 Hi, I am **ANONYMOUS SENDER BOT.**\n
 Just Forward me Some messages or
-media and I will **Anonymize** that !!
+media and I will **Anonymize** that !!\n
+Note - We Dont Promote Circulation of
+Copyright Contents. This Bot is
+Created for Educational Purpose
+Only !!
+
+Please Support The Developer
+By Joining the Support Channel👇👇
 
 ~ Made by @FZBOTS 🇱🇰
 """
