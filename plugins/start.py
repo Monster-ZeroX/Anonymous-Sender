@@ -32,7 +32,7 @@ else:
 
 REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton("👥 Group",
-                          url="https://t.me/FilmsZillaUpdate_new")],
+                          url="http://t.me/Tech_Wizard_Ent")],
     [InlineKeyboardButton("🔊 Channel",
                           url="https://t.me/FZBOTS")]])
 
